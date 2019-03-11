@@ -1,0 +1,13 @@
+**************************************************************************************************
+Technology Stack used:
+
+This web-app uses bootstrap in the front-end and
+nodejs + mongo db in the backend.
+****************************************************************************************************
+
+Purpose:
+
+The purpose is to make a url shortener that can ease my work and to deploy it 
+on Heroku .
+***************************************************************************************************
+
